@@ -3,14 +3,11 @@
 ###
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
-- 🔭 Sou um entusiasta da tecnologia e busco minha primeira oportunidade para ingressar no mercado de trabalho de desenvolvimento. 🤓
-- Atualmente trabalho com gerenciamento de e-Commerce e gestão de comunicação digital. Devido a minha afinidade com o mercado digital, no ano de 2023 decidi voltar meus estudos para a área de desenvolvimento de aplicações, onde hoje deposito todo o meu foco de estudo, estudando principalmente dentro das áreas de desenvolvimento back-end para WEB e Mobile. 
-- 📚 Estou aprendendo:
-- C#, ASP.NET com Razor, Azure e MAUI
-- ⚡ Fun fact: Programar pode quebrar sua cabeça e até te deixar maluco, mas você vai continuar gostando disso.
-  <br>
+<p align="left">-🔭 Sou um entusiasta da tecnologia e busco minha primeira oportunidade para ingressar no mercado de trabalho de desenvolvimento. 🤓<br> Atualmente trabalho com gerenciamento de e-Commerce e gestão de comunicação digital. Devido a minha afinidade com o mercado digital, no ano de 2023 decidi voltar meus estudos para a área de desenvolvimento de aplicações, onde hoje deposito todo o meu foco de estudo, estudando principalmente dentro das áreas de desenvolvimento back-end para WEB e Mobile.<br><br>- 📚 Estou aprednendo: Azure, MAUI e ASP.Net<br>- ⚡ Fun fact: Programar pode quebrar sua cabeça e até te deixar maluco, mas você vai continuar gostando disso.</p>
 
-  <p align="left">📫Como me encontrar:s</p>
+###
+
+  <p align="left">📫Como me encontrar</p>
 
   <div align="left">
   <a href="https://www.linkedin.com/in/rechlucas/" target="_blank">
