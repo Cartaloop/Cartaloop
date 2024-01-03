@@ -8,7 +8,10 @@
 - 📚 Estou aprendendo:
 - C#, ASP.NET com Razor, Azure e MAUI
 - ⚡ Fun fact: Programar pode quebrar sua cabeça e até te deixar maluco, mas você vai continuar gostando disso.
-- 📫Como me encontrar:
+  <br>
+
+  <p align="left">📫Como me encontrar:s</p>
+
   <div align="left">
   <a href="https://www.linkedin.com/in/rechlucas/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
