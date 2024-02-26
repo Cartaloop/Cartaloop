@@ -23,6 +23,9 @@
 
 <p align="left">Linguagens de Programação</p>
 <div align="left">
+
+  <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" alt="c sharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -32,6 +35,9 @@
 
 <p align="left">Frameworks e Bibliotecas</p>
 <div align="left">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" height="40" alt="springboot logo"  />
+  <img width="12" />
   <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" height="40" alt="entity framework logo"  />
   <img width="12" />
   <img src="https://pgroene.files.wordpress.com/2018/02/asp-net-core-logo-1.png" height="40" alt="asp dot net core logo"  />
