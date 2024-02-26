@@ -3,7 +3,7 @@
 ###
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
-<p align="left">-🔭 Sou um entusiasta da tecnologia e busco minha primeira oportunidade para ingressar no mercado de trabalho de desenvolvimento. 🤓<br> Atualmente trabalho com gerenciamento de e-Commerce e gestão de comunicação digital. Devido a minha afinidade com o mercado digital, no ano de 2023 decidi voltar meus estudos para a área de desenvolvimento de aplicações, onde hoje deposito todo o meu foco de estudo, estudando principalmente dentro das áreas de desenvolvimento back-end para WEB e Mobile.<br><br>- 📚 Estou aprednendo: Java, Springboot<br>- ⚡ Fun fact: Programar pode quebrar sua cabeça e até te deixar maluco, mas você vai continuar gostando disso.</p>
+<p align="left">-🔭 Sou um entusiasta da tecnologia e busco minha primeira oportunidade para ingressar no mercado de trabalho de desenvolvimento. 🤓<br> Atualmente trabalho com gerenciamento de e-Commerce e gestão de comunicação digital. Devido a minha afinidade com o mercado digital, no ano de 2023 decidi voltar meus estudos para a área de desenvolvimento de aplicações, onde hoje deposito todo o meu foco de estudo, estudando principalmente dentro da área de desenvolvimento back-end.<br><br>- 📚 Estou aprednendo: Java, Springboot<br> 📚 Estou cursando: Sistemas de Informação - IFRS (Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul)<br>- ⚡ Fun fact: Programar pode quebrar sua cabeça e até te deixar maluco, mas você vai continuar gostando disso.</p>
 
 ###
 
