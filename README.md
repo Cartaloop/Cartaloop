@@ -3,7 +3,7 @@
 ###
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
-<p align="left">-🔭 Sou um entusiasta da tecnologia e estou me graduando em Sistemas de Informação, pelo Instituto Federal do Rio Grande do Sul. 🤓<br> Atualmente trabalho com gerenciamento de e-Commerce e gestão de comunicação digital. Devido a minha afinidade com o mercado digital, no ano de 2023 decidi voltar meus estudos para a área de desenvolvimento de aplicações, onde hoje deposito todo o meu foco de estudo, estudando principalmente dentro da área de desenvolvimento back-end.<br><br>- 📚 Estou aprendendo: Java e Springboot, Autenticação JWT e Spring Security <br> - 📚 Estou cursando: Sistemas de Informação - IFRS (Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul)<br><br>- ⚡ Fun fact: Programar pode quebrar sua cabeça e até te deixar maluco, mas você vai continuar gostando disso.</p>
+<p align="left">-🔭 Sou um entusiasta da tecnologia e estou me graduando em Sistemas de Informação, pelo Instituto Federal do Rio Grande do Sul. 🤓<br> Atualmente trabalho com gerenciamento de e-Commerce e gestão de comunicação digital. Devido a minha afinidade com o mercado digital, no ano de 2023 decidi voltar meus estudos para a área de desenvolvimento de aplicações, onde hoje deposito todo o meu foco de estudo, estudando principalmente dentro da área de desenvolvimento back-end.<br><br>- 📚 Estou aprendendo: Java e Springboot, Autenticação JWT e Spring Security <br> - 📚 Estou cursando: Sistemas de Informação - IFRS (Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul)<br><br></p>
 
 ###
 
@@ -28,7 +28,6 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" alt="c sharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
  
   ###
