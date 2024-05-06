@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://pgroene.files.wordpress.com/2018/02/asp-net-core-logo-1.png" height="40" alt="asp dot net core logo"  />
   <img width="12" />
-  <img src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png?width=256&s=6c4e3deb2a7f1b77281e0baaf0210c7100a72073" height="40" alt="dotnet maui logo"  />
+  <img src="width=256&s=6c4e3deb2a7f1b77281e0baaf0210c7100a72073" height="40" alt="dotnet maui logo"  />
 </div>
 
 ###
