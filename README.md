@@ -1,11 +1,6 @@
 <h1 align="center">Olá 👋, Eu me chamo Lucas Rech</h1>
 
 ###
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-<p align="left">-🔭 Atualmente trabalho com gerenciamento de e-Commerce e gestão de comunicação digital. Hoje deposito todo o meu foco de estudo na área de TI, estudando principalmente dentro da área de desenvolvimento back-end.<br><br>- 📚 Estou aprendendo: Java e Springboot, Autenticação JWT e Spring Security, JPA (HIbernate), SQL e TDD <br> - 📚 Estou cursando: Sistemas de Informação - IFRS (Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul)<br><br></p>
-
-###
 
 <br><br>
 <p align="left">📫Como me encontrar</p>
